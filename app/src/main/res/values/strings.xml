@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shake Shake</string>
+    <string name="play_text">SHAKE!</string>
+    <string name="highscore_text">Highscore</string>
+    <string name="howtoplay_text">How To Play</string>
+    <string name="settings_text">Settings</string>
+    <string name="try_again">Try Again </string>
+    <string name="how_text">Shake the phone as much as you can for 10 seconds</string>
+</resources>
